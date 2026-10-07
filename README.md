@@ -13,7 +13,7 @@ com perfil, imagem, descrição e botões de acesso.
 Os botões são apenas demonstrativos e não direcionam para informações
 pessoais ou páginas externas.
 
-## Acesse o projeto
+## 🔗 Acesse o projeto
 
 https://dev-hillary.github.io/modelo-linktree-tailwind/
 
